@@ -20,7 +20,6 @@
     
     import TitlePage from "../components/ui/TitlePage";
     import VueJwtDecode from "vue-jwt-decode";
-
     export default {
         components: {
             TitlePage
